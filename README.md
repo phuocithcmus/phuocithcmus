@@ -16,8 +16,6 @@ Also I am working on MiraiLabs as Web3 Developer, Rust.
 
 Ask me about anything, I am happy to discuss.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuocithcmus&show_icons=true&theme=transparent)
-
 ## My Recent Articles
 
 You can find all of my posts on my website: [phuocnd.dev](https://phuocnd.dev)
