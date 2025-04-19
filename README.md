@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hey everyone, I'm <b>[Phuocnd.dev](https://phuocnd.xyz)</b> <br>
+👋 Hey everyone, I'm <b>[Phuocnd.xyz](https://phuocnd.xyz)</b> <br>
 
 <b>✨Fullstack Web Developer✨</b>
 
@@ -18,4 +18,4 @@ Ask me about anything, I am happy to discuss.
 
 ## My Recent Articles
 
-You can find all of my posts on my website: [phuocnd.dev](https://phuocnd.xyz)
+You can find all of my posts on my website: [phuocnd.xyz](https://phuocnd.xyz)
